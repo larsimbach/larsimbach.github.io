@@ -15,6 +15,6 @@ Ich bi ebe en chline Programmiero, ha scho ganz vill sache gmacht:
 
 Tschühüüüss!
 
-[Klick do fruf:](https://www.google)
+[Klick do fruf:](larsimbach.gitbub.io/ersti_site)
 
-[Do chonsch of di ander site:](larsimbach.gitbub.io/ersti_site)
+[Do chonsch of di ander site:](larsimbach.gitbub.io/ersti_site/)
