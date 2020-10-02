@@ -1,6 +1,6 @@
 layout: page
 title: "Ersti Site"
-permalink: /ersti_site/
+permalink: /about/contact/
 
 # Das isch di erst site
 
