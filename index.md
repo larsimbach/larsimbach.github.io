@@ -19,4 +19,4 @@ Tschühüüüss!
 
 [Klick do fruf:](larsimbach.gitbub.io/ersti_site)
 
-[Do chonsch of di ander site:](https://octocat.github.io/contact)
+[Do chonsch of di ander site:](https://larsimbach.github.io/contact)
