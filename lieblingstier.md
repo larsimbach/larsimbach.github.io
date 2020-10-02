@@ -24,10 +24,9 @@
 	<p><strong>Ziemlich leicht</strong></p>
 	<p>mehr text</p>
 
-	<a href="https://srf.ch">Link zu Wikipedia</a><br />
-	<a href="./scndpage.html">Link zu zweiter seite</a><br />
-	<a href="https://google.ch"><img src=google.png height="50"></a><br />
-
+	<a href="https://srf.ch">Link zu SRF</a><br />
+	<a href="./ersti_site.html">Link zu ersti site</a><br />
+	
 	<!-- Bild einfügen von Wikipedia -->
 	<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg"
 			height="150">
