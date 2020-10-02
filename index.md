@@ -17,6 +17,6 @@ Ich bi ebe en chline Programmiero, ha scho ganz vill sache gmacht:
 
 Tschühüüüss!
 
-[Klick do fruf:](larsimbach.gitbub.io/ersti_site)
+[Klick zerst do druf](larsimbach.gitbub.io/zwoiti_site)
 
-[Do chonsch of di ander site:](https://larsimbach.github.io/contact)
+[Do chonsch of di ander site (wörklech)](https://larsimbach.github.io/ersti_site)
