@@ -1,3 +1,5 @@
+<img src="header.svg">
+
 # Lars' Webpage
 
 ## Härzlich willkomme bims minere Website
@@ -20,3 +22,4 @@ Tschühüüüss!
 [Klick zerst do druf](larsimbach.gitbub.io/zwoiti_site)
 
 [Do chonsch of di ander site (wörklech)](https://larsimbach.github.io/ersti_site)
+
