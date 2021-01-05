@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h1>Meine Lieblingsfrüchte</h1>
+
+    <input type="text" value="" id="frucht">
+    <button onclick="myFunction()">Frucht hinzufügen</button>
+
+
+    <ul id="myList">
+        <li>Banane</li>
+        <li>Apfel</li>
+    </ul>
+
+    <script>
+        function myFunction() {
+            var textnode;
+            var node;
+            textnode = document.getElementById('frucht').value;
+            node = document.createElement("li");
+            node.innerHTML = textnode;
+            document.getElementById("myList").appendChild(node);
+        }
+    </script>
+
+
+
+</body>
+
+</html>
